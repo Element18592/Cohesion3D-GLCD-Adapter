@@ -15,6 +15,7 @@ Only 3 parts needed (both can be sourced from DigiKey):
 You should also edit the config.txt file located on the Cohesion3D SD card and swap pin numbers for panel.encoder_a_pin and panel.encoder_b_pin
 
 panel.encoder_a_pin should be 2.35 
+
 panel.encoder_b_pin should be 3.26
 
 ## Pinout
