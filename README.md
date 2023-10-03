@@ -16,6 +16,7 @@ You should also edit the config.txt file located on the Cohesion3D SD card and s
 
 panel.encoder_a_pin should be 2.35 
 
+
 panel.encoder_b_pin should be 3.26
 
 ## Pinout
